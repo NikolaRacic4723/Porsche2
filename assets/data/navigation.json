@@ -1,0 +1,26 @@
+[
+    {
+        "link": "index.html",
+        "name": "Home"
+    },
+    {
+        "link": "about.html",
+        "name": "About"
+    },
+    {
+        "link": "shop.html",
+        "name": "Shop"
+    },
+    {
+        "link": "contact.html",
+        "name": "Contact"
+    },
+    {
+        "link": "author.html",
+        "name": "Author"
+    },
+    {
+        "link":"documentation.pdf",
+        "name":"Documentation"
+    }
+ ]

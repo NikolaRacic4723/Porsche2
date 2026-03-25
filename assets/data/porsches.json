@@ -1,0 +1,101 @@
+[
+    {
+        "id" : 1,
+        "image": "assets/img/918.jpg",
+        "name":"918 Spyder",
+        "price": 845000,
+        "drivetrain": "AWD",
+        "type": "Hypercar",
+        "powertrain": "Hybrid",
+        "featured": "true",
+        "description" : "The 918 Spyder redefined the supercar, combining a high-revving V8 with advanced hybrid technology for breathtaking performance. Built in limited numbers, it stands as a milestone of our innovation and motorsport heritage."
+    },
+    {
+        "id" : 2,
+        "image": "assets/img/cgt.jpg",
+        "name":"Carrera GT",
+        "price": 400000,
+        "drivetrain": "RWD",
+        "type": "Hypercar",
+        "powertrain": "Petrol",
+        "featured": "true",
+        "description" : "The Porsche Carrera GT is a legendary supercar powered by a naturally aspirated V10 engine that delivers raw, race-inspired performance and an unforgettable driving experience. Built with advanced carbon-fiber technology and a manual transmission, it represents one of our most iconic and pure driver-focused machines."
+    },
+    {
+        "id" : 3,
+        "image": "assets/img/gt3rs.jpg",
+        "name":"GT3 RS",
+        "price": 250000,
+        "drivetrain": "RWD",
+        "type": "Supercar",
+        "powertrain": "Petrol",
+        "featured": "true",
+        "description": "The Porsche 911 GT3 RS is a track-focused high-performance sports car engineered for maximum aerodynamics, precision handling, and razor-sharp responsiveness. Its naturally aspirated flat-six engine, lightweight construction, and aggressive design make it one of the most extreme road-legal models in our lineup."
+    },
+    {
+        "id" : 4,
+        "image": "assets/img/Macan.jpg",
+        "name":"Macan",
+        "price": 65400,
+        "drivetrain": "AWD",
+        "type": "SUV",
+        "powertrain": "Petrol",
+        "featured": "false",
+        "description":"The Porsche Macan is a compact luxury SUV that blends everyday practicality with the sporty performance and driving dynamics Porsche is known for. With its refined interior, responsive turbocharged engines, and confident handling, it delivers a premium experience for both city driving and long-distance travel."
+    },
+    {
+        "id" : 5,
+        "image": "assets/img/cayman.jpg",
+        "name":"718 Cayman",
+        "price": 75000,
+        "drivetrain": "RWD",
+        "type": "Compact",
+        "powertrain": "Petrol",
+        "featured": "false",
+        "description" : "The Porsche 718 Cayman is a mid-engine sports coupe designed for precise handling, balanced performance, and pure driving enjoyment. Its turbocharged flat-four engine, sharp steering, and sleek aerodynamic design make it one of the most agile and engaging cars in our lineup."
+    },
+    {
+        "id" : 6,
+        "image": "assets/img/911 cabriolet.png",
+        "name":"911 Turbo S Cabriolet",
+        "price": 284300,
+        "drivetrain": "AWD",
+        "type": "Sports",
+        "powertrain": "Petrol",
+        "featured": "false",
+        "description": "The Porsche 911 Turbo S Cabriolet is a high-performance convertible that combines breathtaking acceleration with open-top driving excitement. Its twin-turbocharged flat-six engine, advanced all-wheel-drive system, and luxurious interior deliver a perfect blend of everyday comfort and supercar-level performance."
+    },
+    {
+        "id":7,
+        "image": "assets/img/panamera.png",
+        "name":"Panamera",
+        "price": 29500,
+        "drivetrain": "AWD",
+        "type": "Sedan",
+        "powertrain": "Hybrid",
+        "featured": "false",
+        "description": "The Porsche Panamera is a luxury sports sedan that combines executive comfort with thrilling performance and sharp handling. With powerful engine options, advanced technology, and a spacious premium interior, it delivers the perfect balance of practicality and Porsche driving dynamics."
+    },
+    {
+        "id":8,
+        "image": "assets/img/taycan.png",
+        "name":"Taycan",
+        "price": 99400,
+        "drivetrain": "RWD",
+        "type": "Sedan",
+        "powertrain": "Electric",
+        "featured": "false",
+        "description": "The Porsche Taycan is an all-electric sports sedan that delivers instant acceleration, precise handling, and cutting-edge performance technology. Its futuristic design, advanced digital cockpit, and powerful dual-motor setup make it a perfect blend of sustainability, luxury, and Porsche driving excitement."
+    },
+    {
+        "id":9,
+        "image": "assets/img/turbo s.jpg",
+        "name":"911 Turbo S",
+        "price": 270000,
+        "drivetrain": "AWD",
+        "type": "Sports",
+        "powertrain": "Hybrid",
+        "featured": "false",
+        "description":"The Porsche 911 Turbo S is a high-performance sports car that delivers explosive acceleration, exceptional grip, and everyday usability. Its twin-turbocharged flat-six engine, advanced aerodynamics, and refined interior make it one of the fastest and most versatile models in our lineup."
+    }
+]

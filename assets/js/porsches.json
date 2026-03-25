@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "image": "assets/img/918.jpg",
+        "name":"918 Spyder",
+        "price": 845000,
+        "drivetrain": "AWD",
+        "type": "Hypercar",
+        "powertrain": "Hybrid"
+    },
+    {
+        "id" : 2,
+        "image": "assets/img/cgt.jpg",
+        "name":"Carrera GT",
+        "price": 400000,
+        "drivetrain": "RWD",
+        "type": "Hypercar",
+        "powertrain": "Petrol"
+    },
+    {
+        "id" : 3,
+        "image": "assets/img/gt3rs.jpg",
+        "name":"GT3 RS",
+        "price": 250000,
+        "drivetrain": "RWD",
+        "type": "Supercar",
+        "powertrain": "Petrol"
+    },
+    {
+        "id" : 4,
+        "image": "assets/img/Macan.jpg",
+        "name":"Macan",
+        "price": 65400,
+        "drivetrain": "AWD",
+        "type": "SUV",
+        "powertrain": "Petrol"
+    },
+    {
+        "id" : 5,
+        "image": "assets/img/cayman.jpg",
+        "name":"718 Cayman",
+        "price": 75000,
+        "drivetrain": "RWD",
+        "type": "Compact",
+        "powertrain": "Petrol"
+    },
+    {
+        "id" : 6,
+        "image": "assets/img/911 cabriolet.png",
+        "name":"911 Turbo S Cabriolet",
+        "price": 284300,
+        "drivetrain": "AWD",
+        "type": "Sports",
+        "powertrain": "Petrol"
+    },
+    {
+        "id":7,
+        "image": "assets/img/panamera.png",
+        "name":"Panamera",
+        "price": 29500,
+        "drivetrain": "AWD",
+        "type": "Sedan",
+        "powertrain": "Hybrid"
+    },
+    {
+        "id":8,
+        "image": "assets/img/taycan.png",
+        "name":"Taycan",
+        "price": 99400,
+        "drivetrain": "RWD",
+        "type": "Sedan",
+        "powertrain": "Electric"
+    },
+    {
+        "id":9,
+        "image": "assets/img/turbo s.jpg",
+        "name":"911 Turbo S",
+        "price": 270000,
+        "drivetrain": "AWD",
+        "type": "Sports",
+        "powertrain": "Hybrid"
+    }
+]
